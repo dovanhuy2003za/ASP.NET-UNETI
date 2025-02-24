@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Số Ngày Trong Tháng";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="get" asp-action="SoNgayTrongThang">
+    <div>
+        <label for="thang">Tháng:</label>
+        <input type="number" id="thang" name="thang" min="1" max="12" required />
+    </div>
+    <div>
+        <label for="nam">Năm:</label>
+        <input type="number" id="nam" name="nam" required />
+    </div>
+    <button type="submit">Xem số ngày</button>
+</form>
+
+@if (ViewBag.KetQua != null)
+{
+    <p>@ViewBag.KetQua</p>
+}

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Tìm UCLN";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="get" asp-action="Ucln">
+    <div>
+        <label for="a">Số a:</label>
+        <input type="number" id="a" name="a" required />
+    </div>
+    <div>
+        <label for="b">Số b:</label>
+        <input type="number" id="b" name="b" required />
+    </div>
+    <button type="submit">Tìm UCLN</button>
+</form>
+
+@if (ViewBag.KetQua != null)
+{
+    <p>@ViewBag.KetQua</p>
+}

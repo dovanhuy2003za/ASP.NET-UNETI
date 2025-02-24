@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Giải Phương Trình Bậc 2";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="get" asp-action="GiaiPhuongTrinhBac2">
+    <div>
+        <label for="a">Hệ số a:</label>
+        <input type="number" step="any" id="a" name="a" required />
+    </div>
+    <div>
+        <label for="b">Hệ số b:</label>
+        <input type="number" step="any" id="b" name="b" required />
+    </div>
+    <div>
+        <label for="c">Hệ số c:</label>
+        <input type="number" step="any" id="c" name="c" required />
+    </div>
+    <button type="submit">Giải</button>
+</form>
+
+@if (ViewBag.KetQua != null)
+{
+    <p>@ViewBag.KetQua</p>
+}

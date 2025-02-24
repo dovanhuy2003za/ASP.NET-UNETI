@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Tổng Số Nguyên Tố";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="get" asp-action="TongSoNguyenTo">
+    <div>
+        <label for="mang">Nhập mảng (các số cách nhau bằng dấu phẩy):</label>
+        <input type="text" id="mang" name="mang" required />
+    </div>
+    <button type="submit">Tính tổng</button>
+</form>
+
+@if (ViewBag.KetQua != null)
+{
+    <p>@ViewBag.KetQua</p>
+}

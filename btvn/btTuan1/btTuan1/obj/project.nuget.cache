@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJRIXaqOUeY=",
+  "success": true,
+  "projectFilePath": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\btTuan1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Huy pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Huy pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Huy pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

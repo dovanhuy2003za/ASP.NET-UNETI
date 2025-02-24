@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\asp.net\\btvn\\btTuan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\views\\home\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\views\\home\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\views\\home\\giaiphuongtrinhbac2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\views\\home\\giaiphuongtrinhbac2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\views\\home\\tongsonguyento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\views\\home\\tongsonguyento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|d:\\c#\\asp.net\\btvn\\bttuan1\\bttuan1\\views\\home\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37A117C8-0984-4D81-8CB7-CCD17622B5F2}|btTuan1\\btTuan1.csproj|solutionrelative:bttuan1\\views\\home\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TongSoNguyenTo.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\TongSoNguyenTo.cshtml",
+              "RelativeDocumentMoniker": "btTuan1\\Views\\Home\\TongSoNguyenTo.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\TongSoNguyenTo.cshtml",
+              "RelativeToolTip": "btTuan1\\Views\\Home\\TongSoNguyenTo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:47:49.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaiPhuongTrinhBac2.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\GiaiPhuongTrinhBac2.cshtml",
+              "RelativeDocumentMoniker": "btTuan1\\Views\\Home\\GiaiPhuongTrinhBac2.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\GiaiPhuongTrinhBac2.cshtml",
+              "RelativeToolTip": "btTuan1\\Views\\Home\\GiaiPhuongTrinhBac2.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:45:39.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "btTuan1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "btTuan1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwD4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:34:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoNgayTrongThang.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\SoNgayTrongThang.cshtml",
+              "RelativeDocumentMoniker": "btTuan1\\Views\\Home\\SoNgayTrongThang.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\SoNgayTrongThang.cshtml",
+              "RelativeToolTip": "btTuan1\\Views\\Home\\SoNgayTrongThang.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:47:17.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "btTuan1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "btTuan1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:48:18.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ucln.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\Ucln.cshtml",
+              "RelativeDocumentMoniker": "btTuan1\\Views\\Home\\Ucln.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\btvn\\btTuan1\\btTuan1\\Views\\Home\\Ucln.cshtml",
+              "RelativeToolTip": "btTuan1\\Views\\Home\\Ucln.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:46:38.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
