@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btTuan2", "btTuan2\btTuan2.csproj", "{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSV1", "QLSV1\QLSV1.csproj", "{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB151E46-31BF-458C-ADF2-DF0843890D23}
+	EndGlobalSection
+EndGlobal
