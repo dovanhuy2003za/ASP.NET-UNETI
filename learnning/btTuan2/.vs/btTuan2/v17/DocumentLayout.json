@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\c#\\asp.net\\learnning\\btTuan2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\data\\qlsv1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\data\\qlsv1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\views\\sinhviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\views\\sinhviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Migrations\\20250303121529_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLSV1\\Migrations\\20250303121529_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\controllers\\lopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -103,12 +103,12 @@
       "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\bttuan2\\migrations\\20250225021721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39A2B33D-B1DB-493B-AAC1-E831C1EC35FD}|btTuan2\\btTuan2.csproj|solutionrelative:bttuan2\\migrations\\20250225021721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|d:\\c#\\asp.net\\learnning\\bttuan2\\qlsv1\\migrations\\20250303121529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744CC4EC-29FA-4EF1-B7F2-DCC1CDC0E698}|QLSV1\\QLSV1.csproj|solutionrelative:qlsv1\\migrations\\20250303121529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,98 +126,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Edit.cshtml",
-              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Edit.cshtml",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Edit.cshtml",
-              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T12:45:42.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Delete.cshtml",
-              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Delete.cshtml",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Delete.cshtml",
-              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Delete.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T12:41:41.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Details.cshtml",
-              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Details.cshtml",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Details.cshtml",
-              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T12:39:16.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Create.cshtml",
-              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Create.cshtml",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Create.cshtml",
-              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T12:38:16.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Index.cshtml",
               "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Index.cshtml",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Index.cshtml",
               "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-03T12:28:31.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SeedData.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "QLSV1\\Models\\SeedData.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Models\\SeedData.cs",
               "RelativeToolTip": "QLSV1\\Models\\SeedData.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAIBJwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:19:54.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "QLSV1Context.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Data\\QLSV1Context.cs",
               "RelativeDocumentMoniker": "QLSV1\\Data\\QLSV1Context.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Data\\QLSV1Context.cs",
               "RelativeToolTip": "QLSV1\\Data\\QLSV1Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:10:36.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "btTuan2\\Models\\Movie.cs",
@@ -230,46 +178,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "btTuan2\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "btTuan2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:00:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "btTuan2\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "btTuan2\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T02:52:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Create.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Create.cshtml",
+              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T12:38:16.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Details.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Details.cshtml",
+              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T12:39:16.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Delete.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Delete.cshtml",
+              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T12:41:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLSV1\\Views\\SinhViens\\Edit.cshtml",
+              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Views\\SinhViens\\Edit.cshtml",
+              "RelativeToolTip": "QLSV1\\Views\\SinhViens\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwBcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T12:45:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SinhViensController.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Controllers\\SinhViensController.cs",
               "RelativeDocumentMoniker": "QLSV1\\Controllers\\SinhViensController.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Controllers\\SinhViensController.cs",
               "RelativeToolTip": "QLSV1\\Controllers\\SinhViensController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:10:01.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Models\\SinhVien.cs",
               "RelativeDocumentMoniker": "QLSV1\\Models\\SinhVien.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Models\\SinhVien.cs",
               "RelativeToolTip": "QLSV1\\Models\\SinhVien.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T11:57:55.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SeedData.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "btTuan2\\Models\\SeedData.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Models\\SeedData.cs",
               "RelativeToolTip": "btTuan2\\Models\\SeedData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T02:58:41.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Lop.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Models\\Lop.cs",
               "RelativeDocumentMoniker": "QLSV1\\Models\\Lop.cs",
@@ -282,20 +308,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MVCmovieContext.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Data\\MVCmovieContext.cs",
               "RelativeDocumentMoniker": "btTuan2\\Data\\MVCmovieContext.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Data\\MVCmovieContext.cs",
               "RelativeToolTip": "btTuan2\\Data\\MVCmovieContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T02:02:58.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "20250303121529_InitialCreate.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Migrations\\20250303121529_InitialCreate.cs",
               "RelativeDocumentMoniker": "QLSV1\\Migrations\\20250303121529_InitialCreate.cs",
@@ -308,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Program.cs",
               "RelativeDocumentMoniker": "QLSV1\\Program.cs",
@@ -321,8 +347,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "QLSV1",
+              "DocumentIndex": 17,
+              "Title": "QLSV1.csproj",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\QLSV1.csproj",
               "RelativeDocumentMoniker": "QLSV1\\QLSV1.csproj",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\QLSV1.csproj",
@@ -334,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\appsettings.json",
               "RelativeDocumentMoniker": "btTuan2\\appsettings.json",
@@ -347,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\appsettings.json",
               "RelativeDocumentMoniker": "QLSV1\\appsettings.json",
@@ -360,8 +386,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "btTuan2",
+              "DocumentIndex": 18,
+              "Title": "btTuan2.csproj",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\btTuan2.csproj",
               "RelativeDocumentMoniker": "btTuan2\\btTuan2.csproj",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\btTuan2.csproj",
@@ -373,20 +399,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Program.cs",
               "RelativeDocumentMoniker": "btTuan2\\Program.cs",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Program.cs",
               "RelativeToolTip": "btTuan2\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T02:40:55.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "LopsController.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\QLSV1\\Controllers\\LopsController.cs",
               "RelativeDocumentMoniker": "QLSV1\\Controllers\\LopsController.cs",
@@ -399,26 +425,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "btTuan2\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "btTuan2\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T02:52:58.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "btTuan2\\Views\\Movies\\Create.cshtml",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "btTuan2\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-25T02:52:55.075Z",
               "EditorCaption": ""
@@ -431,7 +444,7 @@
               "RelativeDocumentMoniker": "btTuan2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "btTuan2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBwAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-25T02:47:06.539Z",
               "EditorCaption": ""
@@ -451,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "20250225021721_InitialCreate.cs",
               "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Migrations\\20250225021721_InitialCreate.cs",
               "RelativeDocumentMoniker": "btTuan2\\Migrations\\20250225021721_InitialCreate.cs",
@@ -460,19 +473,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T02:17:21.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "btTuan2\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\c#\\asp.net\\learnning\\btTuan2\\btTuan2\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "btTuan2\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T02:00:41.838Z",
               "EditorCaption": ""
             }
           ]

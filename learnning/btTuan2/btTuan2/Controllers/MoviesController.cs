@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using btTuan2.Data;
 using btTuan2.Models;
+using X.PagedList.Extensions;
+using X.PagedList;
 
 namespace btTuan2.Controllers
 {
@@ -20,11 +22,59 @@ namespace btTuan2.Controllers
         }
 
         // GET: Movies
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string sortOrder, string currentFilter, string searchString, int? page)
         {
-              return _context.Movie != null ? 
-                          View(await _context.Movie.ToListAsync()) :
-                          Problem("Entity set 'MVCmovieContext.Movie'  is null.");
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.TitleSortParm = String.IsNullOrEmpty(sortOrder) ? "title_desc" : "";
+            ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
+            ViewBag.GenreSortParm = sortOrder == "Genre" ? "genre_desc" : "Genre";
+            ViewBag.PriceSortParm = sortOrder == "Price" ? "price_desc" : "Price";
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+                ViewBag.CurrentFilter = searchString;
+            var movies = from m in _context.Movie
+                         select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                movies = movies.Where(s => s.Title.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "title_desc":
+                    movies = movies.OrderByDescending(s => s.Title);
+                    break;
+                case "Date":
+                    movies = movies.OrderBy(s => s.ReleaseDate);
+                    break;
+                case "date_desc":
+                    movies = movies.OrderByDescending(s => s.ReleaseDate);
+                    break;
+                case "Genre":
+                    movies = movies.OrderBy(s => s.Genre);
+                    break;
+                case "genre_desc":
+                    movies = movies.OrderByDescending(s => s.Genre);
+                    break;
+                case "Price":
+                    movies = movies.OrderBy(s => s.Price);
+                    break;
+                case "price_desc":
+                    movies = movies.OrderByDescending(s => s.Price);
+                    break;
+                default:
+                    movies = movies.OrderBy(s => s.Title);
+                    break;
+            }
+            int pageSize = 3;
+            int pageNumber = (page ?? 1);
+            return View(movies.ToPagedList(pageNumber, pageSize));
         }
 
         // GET: Movies/Details/5

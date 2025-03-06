@@ -255,3 +255,6 @@ D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\tr\Microsoft.CodeAnalys
 D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\X.PagedList.dll
+D:\c#\asp.net\learnning\btTuan2\btTuan2\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\c#\asp.net\learnning\btTuan2\btTuan2\obj\Debug\net6.0\btTuan2.MvcApplicationPartsAssemblyInfo.cs

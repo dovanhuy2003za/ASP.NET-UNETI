@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("btTuan2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4dab8bb9d86cfba33c123d987f7117927a6dba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36d0e42ee928cf843d13838c0f07522e93d17620")]
 [assembly: System.Reflection.AssemblyProductAttribute("btTuan2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("btTuan2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
